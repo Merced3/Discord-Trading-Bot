@@ -1,5 +1,0 @@
-Setup coinbase API
-Streak data live
-Test strategies
-Pick the best one
-run live for a week.

@@ -1,0 +1,5658 @@
+[
+  {
+    "message": "I took the 309c for a riskier trade here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these  qqq 309c @ .48",
+    "label": "buy"
+  },
+  {
+    "message": "taking these @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 395p @ .66",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq .44",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 392p @ .74",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 301p @ . 60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 388p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 387p @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 171p @ .45",
+    "label": "buy"
+  },
+  {
+    "message": "I'm in qqq 306c here @ .44",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 306c here @ .50 again",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 306c @ .46 again",
+    "label": "buy"
+  },
+  {
+    "message": "I'm took these here",
+    "label": "buy"
+  },
+  {
+    "message": "Fill was .46",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking AMD 96c @ .57",
+    "label": "buy"
+  },
+  {
+    "message": "I'm back in the 390c",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 390c @ .62",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 298c @ .30",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these @ .66",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 382p @ .71",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 383p @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 1dte 385p @ 1.00",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these at .54",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 390p @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 298c @ .81",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 298c @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 394c @ .62",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 394c @ .66",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these qqq 294c here @ .60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 172p @ .55",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 172p @ .60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 295c @ .71",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 295c @ .60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 177p @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 394p @ .43",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 398p here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 398p @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399p @ .73",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 299p @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 397p @ .33",
+    "label": "buy"
+  },
+  {
+    "message": "taking these @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 1dte 396p @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 398p @ .53",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 398p @ .64",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "QQQ 271c @ 1.00",
+    "label": "buy"
+  },
+  {
+    "message": "QQQ 273c @ .82",
+    "label": "buy"
+  },
+  {
+    "message": "nvda 135c @ .98",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 176c @ 1.20",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 277p @ .74",
+    "label": "buy"
+  },
+  {
+    "message": "nvda 122p @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "amd 64p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 280c @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "tsla 252.5c @ 1.00",
+    "label": "buy"
+  },
+  {
+    "message": "meta 134p @ .95",
+    "label": "buy"
+  },
+  {
+    "message": "meta 145c @ .57",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 172p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "tsla 225p @ .63",
+    "label": "buy"
+  },
+  {
+    "message": "apple 141p @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "spy 364p @ .71",
+    "label": "buy"
+  },
+  {
+    "message": "spy 364p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "took these 269p @ .43 with a -10% stop set",
+    "label": "buy"
+  },
+  {
+    "message": "Stop on qqq is .65 for me here",
+    "label": "buy"
+  },
+  {
+    "message": "amd 54p @ .95",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 264p @ .60",
+    "label": "buy"
+  },
+  {
+    "message": ".73 here on qqq",
+    "label": "buy"
+  },
+  {
+    "message": "spy 359p @ .57",
+    "label": "buy"
+  },
+  {
+    "message": "spy 357p @ .35",
+    "label": "buy"
+  },
+  {
+    "message": "apple 145c @ 1.13",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 165p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 165p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 266c @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "Spy @ .70 on the 356",
+    "label": "buy"
+  },
+  {
+    "message": "Amd 60c @ .62",
+    "label": "buy"
+  },
+  {
+    "message": "apple 144c @ .38",
+    "label": "buy"
+  },
+  {
+    "message": "nvda 121c @ 1.07",
+    "label": "buy"
+  },
+  {
+    "message": "amd 57p @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 263 @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 261p @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "Spy 357p @ .52",
+    "label": "buy"
+  },
+  {
+    "message": "nvda 125c @ 1.02",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 173c @ .59",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 179c @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "amd 57p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "spy 364p @ .89",
+    "label": "buy"
+  },
+  {
+    "message": "apple 140p @ 1.35",
+    "label": "buy"
+  },
+  {
+    "message": "spy 365p @ .47",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 170p @ .36",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 275c @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "I bought more of these at .60 so now I have a .65 average",
+    "label": "buy"
+  },
+  {
+    "message": "spy 366p @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 168p @ .14",
+    "label": "buy"
+  },
+  {
+    "message": "I took some apple 145c @ 1.10 here",
+    "label": "buy"
+  },
+  {
+    "message": "tsla 192.5p @ 1.28",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting back in these tsla 192.5p @ .45 here",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 267p @ 1.12",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 172c @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm entering spy 370c @ .91 here",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 270p @ .47",
+    "label": "buy"
+  },
+  {
+    "message": "I took these qqq 270p @ .25 here",
+    "label": "buy"
+  },
+  {
+    "message": "spy 379c @ .51",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 174c @ .39",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 376p here @ .46. It's a little risky imo",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 172p @ .21",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 278c here @ .63",
+    "label": "buy"
+  },
+  {
+    "message": "I took these qqq 287c @ 1.07",
+    "label": "buy"
+  },
+  {
+    "message": "I took the amd 63c @ .83",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying spy 388c @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "spy 380p @ 1.14",
+    "label": "buy"
+  },
+  {
+    "message": "spy puts at 1.25 here raising my stop to b/e",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying these 180c here at the 200",
+    "label": "buy"
+  },
+  {
+    "message": "I got Iwm 180c here @ .45 on the pm high hold",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting these 385c here @ .95",
+    "label": "buy"
+  },
+  {
+    "message": "spy 387c @ .68",
+    "label": "buy"
+  },
+  {
+    "message": "amd 62c @ 1.05",
+    "label": "buy"
+  },
+  {
+    "message": "I'm gonna try down qqq 284c @ .65 here it's a little risky imo",
+    "label": "buy"
+  },
+  {
+    "message": "I took amd 64c @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I took nvda 140c @ .55",
+    "label": "buy"
+  },
+  {
+    "message": "I took spy 375p @ .92 here",
+    "label": "buy"
+  },
+  {
+    "message": "I got back in spy these puts here @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "apple 140p @ 1.24",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 270p @ 1.18",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 277c @ .85",
+    "label": "buy"
+  },
+  {
+    "message": "I took tsla 215p on that retest. I'll get more on the next",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting the 215p on tsla at .80 here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm scalping these 215p on tsla again at .28",
+    "label": "buy"
+  },
+  {
+    "message": "I took tsla 217.5p @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these 227.5c on tsla @ .47",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking tsla 227.5c @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 276p @ .62",
+    "label": "buy"
+  },
+  {
+    "message": "I got some qqq 275p here @ .45",
+    "label": "buy"
+  },
+  {
+    "message": "I took the 276p @ .72",
+    "label": "buy"
+  },
+  {
+    "message": "I took these @ .93",
+    "label": "buy"
+  },
+  {
+    "message": "I took these 389c @ .52",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these 385p here @ .59",
+    "label": "buy"
+  },
+  {
+    "message": "i took Iwm 184c @ .35",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 271p @ 1.05",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 378p @ 1.18",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying these tsla 215p @ 1.30",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these 279p here @ 1.02",
+    "label": "buy"
+  },
+  {
+    "message": "I got Iwm 188c @ .76",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 269p @ .77",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking msft 220p @ 1.25",
+    "label": "buy"
+  },
+  {
+    "message": "I took spy 363p here @ the 48 ema",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 172p @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "I took these 268c here @ 1.28",
+    "label": "buy"
+  },
+  {
+    "message": "I'm in these @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 257p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "I took spy 378c @ 1.15",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 368p @ 1.15",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking nvda 142c @ .93",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 180c @ .60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying nvda 142c here again @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I took these apple 136p @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 258p @.21",
+    "label": "buy"
+  },
+  {
+    "message": "Im taking qqq 262p @ .59",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 177p here @ .38",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 177p here @ .25",
+    "label": "buy"
+  },
+  {
+    "message": "I took Iwm 178p here",
+    "label": "buy"
+  },
+  {
+    "message": "spy 380c @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I took wed. Iwm 182c @ .80",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking tsla 175p @ 1.60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking amzn 135p here @ 1.03",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting these Iwm 182c @ .94",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 275c @ 1.10",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these qqq 275c again here @ 1.21",
+    "label": "buy"
+  },
+  {
+    "message": "Okay I closed it here for -8",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 176p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "Took the spy 377p @ .49",
+    "label": "buy"
+  },
+  {
+    "message": "I took meta 107c @ 1.00",
+    "label": "buy"
+  },
+  {
+    "message": "I took spy 377p @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm at the 200ema 177p @ .38",
+    "label": "buy"
+  },
+  {
+    "message": "I'm adding Iwm 176p here as well",
+    "label": "buy"
+  },
+  {
+    "message": "Added more here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 377p of the 13ema here @ .76",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 394c @ .93",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these spy 394c here @ 1.24",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking apple 143p @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Apple 144p",
+    "label": "buy"
+  },
+  {
+    "message": "I took Iwm 189c @ .59",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 287c @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 392p here @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "I'm in @ 1.10 here on tsla",
+    "label": "buy"
+  },
+  {
+    "message": "Scaling some here @ 25%",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399c @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 184p @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 284p @ .95",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 284p @ .53",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 288c @ .72",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 289c @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "Locked some at .49 here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these Spy 400c @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying Iwm 187c here at the 48ema @ .46",
+    "label": "buy"
+  },
+  {
+    "message": "switching short here on Iwm. I got some 186p @ .09",
+    "label": "buy"
+  },
+  {
+    "message": "spy 405c @ .50, Riskier trade here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 191c @ .68",
+    "label": "buy"
+  },
+  {
+    "message": "I'm in @ .66",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399p @ .78",
+    "label": "buy"
+  },
+  {
+    "message": "back in 399p @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting qqq 284p here @ .35",
+    "label": "buy"
+  },
+  {
+    "message": "back in qqq here at  .39 average",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 291c here @ .32, Risky play here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 284p @ .55",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting in Iwm 184p here @ .58",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these qqq 284p again here @ .77",
+    "label": "buy"
+  },
+  {
+    "message": "taking spy 394p @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399c @ .33",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 184p @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting in qqq 285p @ .55 here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these spy 390p @ .48",
+    "label": "buy"
+  },
+  {
+    "message": "taking nvda 152.5p @ .53",
+    "label": "buy"
+  },
+  {
+    "message": "back in nvda 152.5p @ .41",
+    "label": "buy"
+  },
+  {
+    "message": "amd 73p @ .46",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these qqq 282p @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 393p @ .35",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 301p @ . 60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 392p @ .74",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq .44",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 395p @ .66",
+    "label": "buy"
+  },
+  {
+    "message": "taking these @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these  qqq 309c @ .48",
+    "label": "buy"
+  },
+  {
+    "message": "I took the 309c for a riskier trade here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm took qqq 313c here",
+    "label": "buy"
+  },
+  {
+    "message": "Taking these at .75",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 400c @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 394p @ .55",
+    "label": "buy"
+  },
+  {
+    "message": "I'm back in these spy 394p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 389p 1dte @ .88",
+    "label": "buy"
+  },
+  {
+    "message": "taking spy 388p @ .73",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 395c @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I got the 395c @ .61",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 310c here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these @ .63",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking 1dte qqq 313c @ .93",
+    "label": "buy"
+  },
+  {
+    "message": "This candle stopped me out. I'm out now",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "scaled some",
+    "label": "sell"
+  },
+  {
+    "message": "selling the east here at even",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some here on this drop",
+    "label": "sell"
+  },
+  {
+    "message": "stop hit here",
+    "label": "sell"
+  },
+  {
+    "message": "stopped out here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out most at our 200ema target \ud83c\udfaf 110%",
+    "label": "sell"
+  },
+  {
+    "message": "Really nice move . I'm out half for 40%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm taking a little off here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of qqq here",
+    "label": "sell"
+  },
+  {
+    "message": "stop hit here",
+    "label": "sell"
+  },
+  {
+    "message": "out half over 20% here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of spy",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half here @ 30%",
+    "label": "sell"
+  },
+  {
+    "message": "my stop hit there I'm out of Iwm",
+    "label": "sell"
+  },
+  {
+    "message": "I trimmed some @ 55%",
+    "label": "sell"
+  },
+  {
+    "message": "sold some here @ 25%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here on qqq, getting late in the day",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half @ 40%",
+    "label": "sell"
+  },
+  {
+    "message": "stopped out here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half @ 20% here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of qqq here @ .46",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm taking profits on amd here. I'm out",
+    "label": "sell"
+  },
+  {
+    "message": "Here's 20% on qqq trimming some and keeping it green",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half @ 60%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of spy",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "sold half @ 25%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling some here @ .35",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half @ 20%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half @ 20%",
+    "label": "sell"
+  },
+  {
+    "message": "my Stop hit on that bounce",
+    "label": "sell"
+  },
+  {
+    "message": "I trimmed some here @ 40%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half at 20%",
+    "label": "sell"
+  },
+  {
+    "message": "okay I stopped out here at the 13ema",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of spy",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half @ .75",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of spy",
+    "label": "sell"
+  },
+  {
+    "message": "nice break down here, I'm out half here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "Here's the new high of day. I took more off here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of spy here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half here at the new high of day!",
+    "label": "sell"
+  },
+  {
+    "message": "Scaled some",
+    "label": "sell"
+  },
+  {
+    "message": "selling the east here at even, sorry meant rest not east",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half at 25%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "out half at 20%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of Iwm here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm scaling some here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of Iwm here",
+    "label": "sell"
+  },
+  {
+    "message": "took a little more off @ 40%",
+    "label": "sell"
+  },
+  {
+    "message": "nearing 20% already here. Won't let this go red",
+    "label": "sell"
+  },
+  {
+    "message": "There's over 20% I scaled some",
+    "label": "sell"
+  },
+  {
+    "message": "stopped out here on the rest",
+    "label": "sell"
+  },
+  {
+    "message": "out half here near 20%",
+    "label": "sell"
+  },
+  {
+    "message": "stopped out of qqq now",
+    "label": "sell"
+  },
+  {
+    "message": "Scaled some at the high",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half here @ 30%",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some at 20% here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here for 100% at our target",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of spy here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half here @ 50%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of spy",
+    "label": "sell"
+  },
+  {
+    "message": "scaled some of the 398p there",
+    "label": "sell"
+  },
+  {
+    "message": "Qqq at support so I scaled more",
+    "label": "sell"
+  },
+  {
+    "message": "out half at 30% here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of spy here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half @ 20%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "new low day here! 50% now I'm scaling",
+    "label": "sell"
+  },
+  {
+    "message": "scaled some",
+    "label": "sell"
+  },
+  {
+    "message": "Can't hold through these candles. I'm out",
+    "label": "sell"
+  },
+  {
+    "message": "New lows here! Scaling some @ 50%",
+    "label": "sell"
+  },
+  {
+    "message": "taking some off here @ 20%",
+    "label": "sell"
+  },
+  {
+    "message": "my stop hit",
+    "label": "sell"
+  },
+  {
+    "message": "Nice move already! Scaling some out",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "there that new low \ud83d\udd25 Scaling out",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of qqq here",
+    "label": "sell"
+  },
+  {
+    "message": "selling half here at 25%",
+    "label": "sell"
+  },
+  {
+    "message": "55% here I'm scaling more",
+    "label": "sell"
+  },
+  {
+    "message": "85% trail your stop tight",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some at 1.05 here",
+    "label": "sell"
+  },
+  {
+    "message": "30% here, raise stops and protect those gains",
+    "label": "sell"
+  },
+  {
+    "message": "taking most of my position off here at 60%",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit on QQQ",
+    "label": "sell"
+  },
+  {
+    "message": "stop at b/e on nvda",
+    "label": "sell"
+  },
+  {
+    "message": "scaled some nvda @ .90",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some @ 25% here to be safe",
+    "label": "sell"
+  },
+  {
+    "message": "taking all gains here at 1.90",
+    "label": "sell"
+  },
+  {
+    "message": "scaling half of tsla at 1.20",
+    "label": "sell"
+  },
+  {
+    "message": "that stop hit for me",
+    "label": "sell"
+  },
+  {
+    "message": "Keep a -10% stop",
+    "label": "sell"
+  },
+  {
+    "message": "selling half here @ 1.05",
+    "label": "sell"
+  },
+  {
+    "message": "selling half here @ .73 and raising my stop to break even",
+    "label": "sell"
+  },
+  {
+    "message": "I got stopped out at .80 on tsla \ud83d\udc4d",
+    "label": "sell"
+  },
+  {
+    "message": "stopped out of apple here. Will re assess",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some spy puts @ 35%",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out at 1.00 here \ud83d\udd25",
+    "label": "sell"
+  },
+  {
+    "message": "13 broke I'm stopping out",
+    "label": "sell"
+  },
+  {
+    "message": "35% here scale some!",
+    "label": "sell"
+  },
+  {
+    "message": "I scaled a little here @ 1.03 raising my stop to break even now. Playing safe",
+    "label": "sell"
+  },
+  {
+    "message": "Break even stop hit on amd",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling half here @ 30%",
+    "label": "sell"
+  },
+  {
+    "message": "selling half at 25% here",
+    "label": "sell"
+  },
+  {
+    "message": "60% on spy. Scale out and keep stops raised",
+    "label": "sell"
+  },
+  {
+    "message": "selling some spy @ 20% here",
+    "label": "sell"
+  },
+  {
+    "message": "I placed a stop on apple at 1.00",
+    "label": "sell"
+  },
+  {
+    "message": "Keep a 20% stop",
+    "label": "sell"
+  },
+  {
+    "message": "Keep a 15% stop here",
+    "label": "sell"
+  },
+  {
+    "message": "scaling half on this pop to .78",
+    "label": "sell"
+  },
+  {
+    "message": "70% trailing my stop and riding it up",
+    "label": "sell"
+  },
+  {
+    "message": "selling half at .50",
+    "label": "sell"
+  },
+  {
+    "message": "selling half of nvda @ 1.30",
+    "label": "sell"
+  },
+  {
+    "message": "Trimming some amd @ .62",
+    "label": "sell"
+  },
+  {
+    "message": ".95 on here. Make sure you lock in those gains",
+    "label": "sell"
+  },
+  {
+    "message": "selling some qqq @ .85",
+    "label": "sell"
+  },
+  {
+    "message": "We're over 50% gains here. Trail your stop behind to protect those gains",
+    "label": "sell"
+  },
+  {
+    "message": "85% on qqq here @ 1.25 lock most of those gains in",
+    "label": "sell"
+  },
+  {
+    "message": "100% here \ud83d\udd25",
+    "label": "sell"
+  },
+  {
+    "message": ".62 here stop is at break even, no risk trade",
+    "label": "sell"
+  },
+  {
+    "message": "-10% stop on these",
+    "label": "sell"
+  },
+  {
+    "message": "trimming alittle here @ .65 staying safe",
+    "label": "sell"
+  },
+  {
+    "message": ".75 here on Iwm keep the stops in the profit",
+    "label": "sell"
+  },
+  {
+    "message": "I trimmed a little Iwm back @ .74 the overall market looks weak so play it safe",
+    "label": "sell"
+  },
+  {
+    "message": "Stop is .80 for me on amd",
+    "label": "sell"
+  },
+  {
+    "message": "@ 1.50 here I raised my stop to break even",
+    "label": "sell"
+  },
+  {
+    "message": "Now @ 1.60 I'm just gonna trail my stop behind to keep it green and try to ride this out",
+    "label": "sell"
+  },
+  {
+    "message": "40% I'm selling half on spy",
+    "label": "sell"
+  },
+  {
+    "message": "@ 60% as we approach the pml. Could see a bounce so be careful. Trail your stop",
+    "label": "sell"
+  },
+  {
+    "message": "Iwm @ 20% here don't let it go red",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out",
+    "label": "sell"
+  },
+  {
+    "message": "over 50% here raise your stops",
+    "label": "sell"
+  },
+  {
+    "message": "100% nice!",
+    "label": "sell"
+  },
+  {
+    "message": "I'm stopping out of these. Will re assess",
+    "label": "sell"
+  },
+  {
+    "message": "Playing it safe here. We don't need to give back any gains from earlier",
+    "label": "sell"
+  },
+  {
+    "message": "These are at .52 now and my stop is above the 200ema",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out on tsla",
+    "label": "sell"
+  },
+  {
+    "message": "stopped out of spy here",
+    "label": "sell"
+  },
+  {
+    "message": "These are at 12% my stop is gonna be above the pm low",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling a few of these qqq puts at .30 here incase we bounce at the 13ema",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling half @ 30% here",
+    "label": "sell"
+  },
+  {
+    "message": "Raise your stops",
+    "label": "sell"
+  },
+  {
+    "message": "I sold half here @ 50%",
+    "label": "sell"
+  },
+  {
+    "message": "Target \ud83c\udfaf approaching here. Locked in more @ 60%. Holding some for a 200ema break if we can get it",
+    "label": "sell"
+  },
+  {
+    "message": "Iwm finally breaking these emas. I'm cutting it",
+    "label": "sell"
+  },
+  {
+    "message": "scaling a little @ 30% here on this pop",
+    "label": "sell"
+  },
+  {
+    "message": "45% here on qqq I'm raising my stop on some more contracts",
+    "label": "sell"
+  },
+  {
+    "message": "Scaled most at 85% here",
+    "label": "sell"
+  },
+  {
+    "message": "100% here on qqq \ud83d\udd25",
+    "label": "sell"
+  },
+  {
+    "message": "im scaling some here @ 1.23",
+    "label": "sell"
+  },
+  {
+    "message": "Stop is set at entry price for a risk free ride now",
+    "label": "sell"
+  },
+  {
+    "message": "I but amd, doesn't appear to be holding up for now",
+    "label": "sell"
+  },
+  {
+    "message": "I'm scaling some early here at 1.00 to reduce some risk",
+    "label": "sell"
+  },
+  {
+    "message": "Sold the rest of my spy cons here. There moving so slow to the upside",
+    "label": "sell"
+  },
+  {
+    "message": "We're over 1.30 on these puts, I'm just gonna trail my stop and aim for the 200ema. It's a long way down there so we will see what happened here",
+    "label": "sell"
+  },
+  {
+    "message": "Looks like we're not getting that 200ema test here. Nice little base hit here",
+    "label": "sell"
+  },
+  {
+    "message": "These are @ 30% here I have a stop at b/e now",
+    "label": "sell"
+  },
+  {
+    "message": "I'm scaling some here @ the pm high",
+    "label": "sell"
+  },
+  {
+    "message": "selling half @ .55 here",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling some here @ 1.15",
+    "label": "sell"
+  },
+  {
+    "message": "almost 40% on this candle, trailing my stop",
+    "label": "sell"
+  },
+  {
+    "message": "My stop both Iwm and spy hit, .60 on Iwm and 1.30 on spy. Nice trades on both",
+    "label": "sell"
+  },
+  {
+    "message": "My stop hit on these spy calls",
+    "label": "sell"
+  },
+  {
+    "message": "That candle stopped me out. It was definitely a risky trade",
+    "label": "sell"
+  },
+  {
+    "message": "Scaled some there @ 25%",
+    "label": "sell"
+  },
+  {
+    "message": "nvda looking weak, set stop on amd",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out of nvda here @ 60%",
+    "label": "sell"
+  },
+  {
+    "message": "Amd got stopped out as well",
+    "label": "sell"
+  },
+  {
+    "message": "This push up on spy stopped me out",
+    "label": "sell"
+  },
+  {
+    "message": "Selling spy here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm scaling some on this big push down",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling some apple @ 1.45 reducing risk",
+    "label": "sell"
+  },
+  {
+    "message": "25% on apple here I'm trailing my stop and locking some in",
+    "label": "sell"
+  },
+  {
+    "message": "I'm taking some gains on apple at 40% here",
+    "label": "sell"
+  },
+  {
+    "message": "trailing stop hit here on apple. Was up 58% and set it tight",
+    "label": "sell"
+  },
+  {
+    "message": "selling some at 1.35 here",
+    "label": "sell"
+  },
+  {
+    "message": "now we are up over 20% on qqq, protect your gains by trailing your stops. We should see a nice grind down imo",
+    "label": "sell"
+  },
+  {
+    "message": "I'm scaling some here @ 1.00",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped on this candle for the rest",
+    "label": "sell"
+  },
+  {
+    "message": "30% already I'm scaling and raising stops",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped at break here on the rest of tsla",
+    "label": "sell"
+  },
+  {
+    "message": "70% here I'm scaling some",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit at even on the rest",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling some @ 20% here to make it a safer play",
+    "label": "sell"
+  },
+  {
+    "message": "Perfect entry, scaling some @ .90 here",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped at even on the rest",
+    "label": "sell"
+  },
+  {
+    "message": "20% on qqq here I'm raising my stop",
+    "label": "sell"
+  },
+  {
+    "message": "above 30% here I'm taking my first scale",
+    "label": "sell"
+  },
+  {
+    "message": "60% here on qqq I'm scaling more",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling some here @ 40%",
+    "label": "sell"
+  },
+  {
+    "message": "scaled some there @ 25% letting the rest ride",
+    "label": "sell"
+  },
+  {
+    "message": "I stopped out on these. It's not holding",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling some here @ .72",
+    "label": "sell"
+  },
+  {
+    "message": "That stop hit, I may re enter",
+    "label": "sell"
+  },
+  {
+    "message": "Wow major candle! Stopped out there",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling half @ 1.25",
+    "label": "sell"
+  },
+  {
+    "message": "Spy at 20% I'm scaling some on both",
+    "label": "sell"
+  },
+  {
+    "message": "Stops hit on these",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out here on tsla",
+    "label": "sell"
+  },
+  {
+    "message": "I'm going to sell these here at b/e due to the sideways action on this move",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling @.85",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped on the rest here",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling some here over 1.30",
+    "label": "sell"
+  },
+  {
+    "message": "Selling msft, no follow through here",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling some here at .49 @ the 13ema",
+    "label": "sell"
+  },
+  {
+    "message": "First scale is here at this 371 level",
+    "label": "sell"
+  },
+  {
+    "message": "If we break this level we should get a nice move on these",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling some at 1.05 here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm cutting the rest of qqq here, this move is taking to long",
+    "label": "sell"
+  },
+  {
+    "message": "I cut it here",
+    "label": "sell"
+  },
+  {
+    "message": "I placed a stop @ 1.05 on spy",
+    "label": "sell"
+  },
+  {
+    "message": "I took a little off at 1.29 here",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit on nvda, not much follow through here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling some @  50% here",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit on the rest of nvda",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling some @ 45% here",
+    "label": "sell"
+  },
+  {
+    "message": "Fully out of apple here",
+    "label": "sell"
+  },
+  {
+    "message": "I sold some @ .28 here",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit on qqq here",
+    "label": "sell"
+  },
+  {
+    "message": "I scaled some at .69 here",
+    "label": "sell"
+  },
+  {
+    "message": "Stops hit on qqq here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm getting out of Iwm. Looks like it's not respecting the 13ema",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some here @ 35%",
+    "label": "sell"
+  },
+  {
+    "message": "65% here on Iwm scaling some more",
+    "label": "sell"
+  },
+  {
+    "message": "Here's the 13 break on Iwm I'm out of this play now",
+    "label": "sell"
+  },
+  {
+    "message": "nice break here, scaling at .55",
+    "label": "sell"
+  },
+  {
+    "message": "Scaled more @ 45% here",
+    "label": "sell"
+  },
+  {
+    "message": "Stop candle here, gotta protect gains",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling some @ .65 here",
+    "label": "sell"
+  },
+  {
+    "message": "I stopped on spy here",
+    "label": "sell"
+  },
+  {
+    "message": "b/e stop hit on Iwm. No follow through",
+    "label": "sell"
+  },
+  {
+    "message": "stop hit",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling amzn here",
+    "label": "sell"
+  },
+  {
+    "message": "locking some in here @ 25%",
+    "label": "sell"
+  },
+  {
+    "message": "45% on Iwm I'm scaling a little more here",
+    "label": "sell"
+  },
+  {
+    "message": "Taking most of my profits here over 55%",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out of all here",
+    "label": "sell"
+  },
+  {
+    "message": "Hit, too early here",
+    "label": "sell"
+  },
+  {
+    "message": "B/e stop in spy here",
+    "label": "sell"
+  },
+  {
+    "message": "New high on meta here. I'm scaling some at 25%",
+    "label": "sell"
+  },
+  {
+    "message": "Stop for the rest of my meta position I'd at break even",
+    "label": "sell"
+  },
+  {
+    "message": "I'm selling most at .73 here",
+    "label": "sell"
+  },
+  {
+    "message": "Didn't get to scale in as we didn't move up. Selling some at 20% here",
+    "label": "sell"
+  },
+  {
+    "message": "Scale some 176p @ 40%",
+    "label": "sell"
+  },
+  {
+    "message": "13 broke. Time to re assess",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some here @ 25% on the zone break",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling some @ 45% here",
+    "label": "sell"
+  },
+  {
+    "message": "80% on qqq here I'm trailing my stop",
+    "label": "sell"
+  },
+  {
+    "message": "I'm watching Iwm 185c",
+    "label": "sell"
+  },
+  {
+    "message": "I'm watching spy 394c",
+    "label": "sell"
+  },
+  {
+    "message": "Scaled some @ 1.05",
+    "label": "sell"
+  },
+  {
+    "message": "Hit 20% break even stop now",
+    "label": "sell"
+  },
+  {
+    "message": "New high of day here, scaling some at 1.50",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit here on spy for me. Had to lock in the gains \ud83d\udc4a",
+    "label": "sell"
+  },
+  {
+    "message": "Taking some off of apple here @ 25%",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit on rest of apple here",
+    "label": "sell"
+  },
+  {
+    "message": "up 25% on this second apple trade I'm scaling some",
+    "label": "sell"
+  },
+  {
+    "message": "70% on that wick! Scale",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out",
+    "label": "sell"
+  },
+  {
+    "message": "13 broke, respect the stop leve",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling some @ .77 here",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some there over .50",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit here, the cons dipped to low to hold",
+    "label": "sell"
+  },
+  {
+    "message": "Scaled at .52 here",
+    "label": "sell"
+  },
+  {
+    "message": "Big move! Scaled some",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out here!",
+    "label": "sell"
+  },
+  {
+    "message": "trimming some Iwm here over 20%",
+    "label": "sell"
+  },
+  {
+    "message": "Stop above it",
+    "label": "sell"
+  },
+  {
+    "message": "Stop level hit here",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out on the rest, no follow through today",
+    "label": "sell"
+  },
+  {
+    "message": "Scaled some at .85 this time",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit here. 13 isn't holding",
+    "label": "sell"
+  },
+  {
+    "message": "40% here selling half",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling at .65 here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm cutting Iwm here, not moving like I wanted it to",
+    "label": "sell"
+  },
+  {
+    "message": "30% here I'm scaling some",
+    "label": "sell"
+  },
+  {
+    "message": "Stop at break even on the rest",
+    "label": "sell"
+  },
+  {
+    "message": "took an early scale here @ .90",
+    "label": "sell"
+  },
+  {
+    "message": "another early scale on spy here @ .75",
+    "label": "sell"
+  },
+  {
+    "message": "over 30% here lock some in",
+    "label": "sell"
+  },
+  {
+    "message": "Locking some at 35% here",
+    "label": "sell"
+  },
+  {
+    "message": "Over 350% just trailing my stop",
+    "label": "sell"
+  },
+  {
+    "message": "Scaling now @ 40%",
+    "label": "sell"
+  },
+  {
+    "message": "Instant stop out on this one",
+    "label": "sell"
+  },
+  {
+    "message": "What a move! Scale some of you got in",
+    "label": "sell"
+  },
+  {
+    "message": "selling here on qqq chart still in tacked but the constructs are going against me",
+    "label": "sell"
+  },
+  {
+    "message": "Stop will be candle close over the 13ema",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit here on qqq",
+    "label": "sell"
+  },
+  {
+    "message": "Scaled some Iwm near 20% there",
+    "label": "sell"
+  },
+  {
+    "message": "Selling the rest of Iwm here",
+    "label": "sell"
+  },
+  {
+    "message": "Big push up and stop hit",
+    "label": "sell"
+  },
+  {
+    "message": "Stopping out of spy",
+    "label": "sell"
+  },
+  {
+    "message": "This pullback stopped me out",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out here",
+    "label": "sell"
+  },
+  {
+    "message": "Stopped out",
+    "label": "sell"
+  },
+  {
+    "message": "taking a small scale at .60 here",
+    "label": "sell"
+  },
+  {
+    "message": "Not holding, hit my stop",
+    "label": "sell"
+  },
+  {
+    "message": "I'm scaling some here @ 35%",
+    "label": "sell"
+  },
+  {
+    "message": "Level broke on nvda. Stop hit here",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some here @28%",
+    "label": "sell"
+  },
+  {
+    "message": "Level not holding, selling qqq",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of qqq here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm taking a little off here",
+    "label": "sell"
+  },
+  {
+    "message": "Really nice move . I'm out half for 40%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out most at our 200ema target \ud83c\udfaf 110%",
+    "label": "sell"
+  },
+  {
+    "message": "stopped out here",
+    "label": "sell"
+  },
+  {
+    "message": "stop hit here",
+    "label": "sell"
+  },
+  {
+    "message": "scaling some here on this drop",
+    "label": "sell"
+  },
+  {
+    "message": "selling the east here at even",
+    "label": "sell"
+  },
+  {
+    "message": "scaled some",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm setting a 10% stop here",
+    "label": "sell"
+  },
+  {
+    "message": "Stop hit on half here",
+    "label": "sell"
+  },
+  {
+    "message": "This candle stopped me out. I'm out now",
+    "label": "sell"
+  },
+  {
+    "message": "I sold some here @ 20%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out a little more here on this new high of day for 50%",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here on qqq",
+    "label": "sell"
+  },
+  {
+    "message": "scaled some",
+    "label": "sell"
+  },
+  {
+    "message": "stop hit here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "I sold a little at .60",
+    "label": "sell"
+  },
+  {
+    "message": "I'm stopped out here",
+    "label": "sell"
+  },
+  {
+    "message": "out half",
+    "label": "sell"
+  },
+  {
+    "message": "Took more off at .80 here",
+    "label": "sell"
+  },
+  {
+    "message": "stopped out here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out half @ 30%",
+    "label": "sell"
+  },
+  {
+    "message": "stop hit here!",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "I scaled half @ 30% here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out of spy here",
+    "label": "sell"
+  },
+  {
+    "message": "stopped .56",
+    "label": "sell"
+  },
+  {
+    "message": "qqq hit my stop here",
+    "label": "sell"
+  },
+  {
+    "message": "stopped out here",
+    "label": "sell"
+  },
+  {
+    "message": "I'm out here",
+    "label": "sell"
+  },
+  {
+    "message": "That's a new high of day here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "New high of day on the break , looks good for that move",
+    "label": "do_nothing"
+  },
+  {
+    "message": "This flag break will send us to 310 imo. Spy not even at the high of day yet",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm using that high of day level of 309.39 as my stop here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looks like we are heading for that 310 zone next",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We see the 3pm dip get bought up often",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Really close here! Up 50% on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice candle here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for that 309.39 level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "It's late so the 0dte are wild",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just sitting at my average here. Was hoping for a quicker move off the ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Taking the chance on some follow through here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is below the 13ema for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Spy also smoothing out now. I'll be watching both on the pullbacks",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Exploded out of that flag! Was too slow on my entry. I'll keep watching it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "It's still really choppy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Broke below the 200ema I'm watching this. It's not an ideal setup so I'll if I enter it will be with a smaller size position",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Hoping we smooth out here and ride the 13ema for a bit",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Sitting over 20% here should be easy to keep this trade green",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice candle",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I still have my eyes on that 394.40 level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "These conditions are not predictable",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing safe",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Hoping for some momentum to pick up",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I like the 13 crossing under the 200ema here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Wicking hard here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Seem to be holding under that 200ema here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice flag break on spy. My main watch is below the 200ema here. I would like to catch a move down to the next support zone at 394.40",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching this dip on qqq to the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 309c here if this flag break at the 13ema. Seems to be running a lot smoother now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 396p here if we break below the 200ema again",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 395p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll be watching spy 395p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "that flag has officially broke on qqq. I'll be looking at pullbacks again here on the way up to that high of day level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "qqq is breaking out of a really nice bull flag here on the 5 minute. I'll be watching 306c on the pullbacks",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll be watching the 302p on the break under the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching 303p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "still watching this lower flag line on qqq",
+    "label": "do_nothing"
+  },
+  {
+    "message": "nice little bear flag forming in this zone on qqq. I'll be watching 302p if it does break down out of this flag / zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "spy breaking that trendline here. I'll be watching   392p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 301 puts here as we fall back under the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll be watching spy on this 13ema retest if it gives one",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm looking at the 388p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching tsla 177.5p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 387p here at the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "That was an ugly pullback, I'm still watching it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 171p as we flag back into the pre market low",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm still watching qqq",
+    "label": "do_nothing"
+  },
+  {
+    "message": "nice bull flag break on the 15 minute qqq chart. I'm watching 306c again here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching the reaction to our 304 zone on qqq here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 306c on this zone retest at the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching amd 96c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching this flag break on spy to re enter",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching the 390c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "spy breaking above our zone here. I'll be watching the retest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 298c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 297c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 382p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll be watching spy 383p on this spy pullback to the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 298c here on this pullback as we retest the high of day",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Im watching tsla 170p when we get back below the emas",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 297c here. We held support well here.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 387p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 390p coming off this supply zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 298c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 298c if we hold above this intraday resistance zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching those same spy calls again",
+    "label": "do_nothing"
+  },
+  {
+    "message": "'m watching qqq 294c here at the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching these Iwm puts again",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 172p on the 13ema retest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "qqq held that zone really well. I'm watching the 295c again here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will watch the zone to hold here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still watching the pullbacks on this, I'll be looking at the 295c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Everyone I'm watching qqq 293c on this retest of the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 176p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll be watching this flag break on spy to finish off this move to our zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching this area on spy to hold as resistance. We bounced off it 3 times this morning so I'm expecting it to hold now that we are under it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Im watching spy 398p on the retest here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm still watching these spy puts if we can hold under this zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 399p on this bear break as well if we can clear this support zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 299p on the break of this bear flag",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Really nice channel break on spy here. I'll be watching 397p if we can get below the 48ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 186p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 396p at the 48ema. 1dte",
+    "label": "do_nothing"
+  },
+  {
+    "message": "spy broke through 399 support zone. I'm watching 398p on the pullbacks",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just missed that entry, I'm watching 399p if we get that pullback to the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "nice flag /channel break on spy, below that 401.29 level again. I'm watching 400p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "This isn't really setting up very nicely. I'm gonna look for something with a better r/r",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Some major green bars coming in here. Flag not playing out. Will look for something better",
+    "label": "do_nothing"
+  },
+  {
+    "message": "that's an ugly candle. Not taking that lol",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 298c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Missed the fill on these, I'll keep watching it though",
+    "label": "do_nothing"
+  },
+  {
+    "message": "test",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm looking at the 388p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "my stop is set at ,68",
+    "label": "do_nothing"
+  },
+  {
+    "message": "25% on nvda. Stop is raised into profit. Gonna let this work now.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Amd at 1.05 here raise your stop to green",
+    "label": "do_nothing"
+  },
+  {
+    "message": "keep a stop loss set below the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "1.20 on QQQ here protect your gains",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I have a hard stop at 1.10 now on these. Gonna try to let some of them run",
+    "label": "do_nothing"
+  },
+  {
+    "message": "raise your stop to 1.40 of your still holding",
+    "label": "do_nothing"
+  },
+  {
+    "message": "raising my stop to 1.50 here. 100% gain locked",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is .95 on the rest of tsla. Keep the trade green",
+    "label": "do_nothing"
+  },
+  {
+    "message": "keep a stop at -15% on these just incase",
+    "label": "do_nothing"
+  },
+  {
+    "message": "10% keep stop at break even",
+    "label": "do_nothing"
+  },
+  {
+    "message": "raise your stop on Iwm to .90",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Raising stop to 1.00",
+    "label": "do_nothing"
+  },
+  {
+    "message": "raising stop to 1.10 on Iwm",
+    "label": "do_nothing"
+  },
+  {
+    "message": "raising my stop again to 1.15 here on iwm",
+    "label": "do_nothing"
+  },
+  {
+    "message": "50% here raise you stop up",
+    "label": "do_nothing"
+  },
+  {
+    "message": "spy puts @ .86 here raise your stop to itm",
+    "label": "do_nothing"
+  },
+  {
+    "message": "spy @ 50% here keep your stops up",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching those same spy 364p again",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Keep a stop above the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching qqq 269p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "keep your stop in the money here. Don't let it go red",
+    "label": "do_nothing"
+  },
+  {
+    "message": ".65 here on qqq I'm trailing my stop tightly now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 264p on this pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Always raise your stops when we hit 25%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm raising my stop on qqq as we go to protect gains",
+    "label": "do_nothing"
+  },
+  {
+    "message": " I'm watching spy 359p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is above the PDL / 48 ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "stop loss is .50 on spy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "were at 40% here on spy. Keep the stops raised",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching Netflix 245c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching spy 357p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "stop is 15% on spy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "50% here on spy! Protect your gains",
+    "label": "do_nothing"
+  },
+  {
+    "message": " stop on spy is .55 now for me. We're approaching 100% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": ".72 on spy here. .70 is my new stop for 100%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching apple 145c here on this retest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Keeping stop at 15% on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching spy and qqq puts here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "keeping a 20% stop on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching Iwm 165p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching qqq 266c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching qqq 266c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching spy 356p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching amd 60c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching apple 144c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Now at .42 Keep a stop at the entry price",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop on the rest is .40 ",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Let's ride this up if it wants go",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching nvda 121c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My Stop is tight on these at .99",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching amd 57p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Keeping a stop @ .50 on amd",
+    "label": "do_nothing"
+  },
+  {
+    "message": "over 50% here on amd trailing my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching nvda 114p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Scratch these, wanted them to stay below 115 for entry",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching qqq 261p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": ".75 here raise your stop to even",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching spy 357p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching nvda 125c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching Iwm 179c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop under pm high level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I will hold the rest for a break of that pm high level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching apple 148c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching spy 365p off the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Smaller size",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is a break above the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching Iwm 170p on this retest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "qqq setting up here. I'm watching the 275c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching spy 366p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Smaller size here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "15% here I'm watching this closely",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Keep a tight stop on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm gonna hold these until we break above the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop for me is 1.00 on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "apple nearing 1.20 here I'm placing my stop @ 1.05 for now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching tsla 192.5p on a pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "new tsla average is 1.20",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is 1.00 on these for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "1.29 here on qqq raising my stop on half",
+    "label": "do_nothing"
+  },
+  {
+    "message": "qqq @ 1.45 here watch for some support down here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're touching demand here. Raise good stops on qqq",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Working out way down into this zone. Still letting it work",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're at 1.65 my new stop is 1.50 here. I think there is room for a big move here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching apple 145c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm also watching spy 371c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "keeping qqq 273c on watch along with the others",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 172c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I forgot to put the stop on Iwm in here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 271p on this pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching these same puts at the 48 as well",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 278c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching iwm 174c here as well",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop on Iwm is below this 173.19 level for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Working so far. I'm looking for a push up to the 174 area",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Here's that push up, we're at 40% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watch this area here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're at 25%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "If we break this zone 200ema is my target",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're flagging into this zone and emas about to cross up. We might see that 200ema tap here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "@ 35% on these and it's looking good still",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Now just trailing my stop and watching for a 200ema bounce",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Use the 200ema as your risk if you take these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 278c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My stop will be under 277.80 on these qqq calls",
+    "label": "do_nothing"
+  },
+  {
+    "message": "70% here on qqq we're looking over extended. Watch the pullback here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Letting the rest ride this end of day move out",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 287c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is below 13 ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "qqq is near our average here be cautious on this one",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching amd 63c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Risk is the 13 ema on this one",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 388c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 380p here, risky as it will going against the trend so be cautious if you play it with me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Crazy candle there! We're up over 20% now and still looking for the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "30% on these puts now. 200ema target getting closer",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 180c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I got filled @ .57",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop on this next round of Iwm is below the 13ema for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "181c sorry",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 385c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 387c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're about to retest the pdh / 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I will re enter if it shapes up here after this candle, I don't want to get knifed on",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My stop is 1.00",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm giving amd a chance to bounce on this line here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "1.15 here on amd I'm raising up my stop to green",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm looking for a test of 62 at that pdh",
+    "label": "do_nothing"
+  },
+  {
+    "message": "The 48 could be a safer entry but we may not see it again.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching amd calls here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching nvda off the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "For calls",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is a close below the 200",
+    "label": "do_nothing"
+  },
+  {
+    "message": "45% on nvda raise your stops",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nvda over 50% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Amd still around 25%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 375p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still watching it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is above the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Keeping a stop above the 48ema on this",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm moving my stop to break even here on apple",
+    "label": "do_nothing"
+  },
+  {
+    "message": "If the 13ema holds here we should be good for some continuation on apple",
+    "label": "do_nothing"
+  },
+  {
+    "message": "we're still up around 10% on apple I'm setting my stop on the rest of these at our entry price.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Apple gearing up for the next leg down here imo",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're still up nicely and just letting it work",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Raising my stop on apple. We're over 30% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm still just riding this apple move down as far as I can using the 13ema as my guide. We're at about 50% gains now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "A little risky here imo",
+    "label": "do_nothing"
+  },
+  {
+    "message": "But feel it's worth a shot",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Took them on a close of this candle. My stop is a close above that same candle",
+    "label": "do_nothing"
+  },
+  {
+    "message": "So far so good here, we're at 1.27 on these and raising my stop to b/e",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Risk free trade at this point",
+    "label": "do_nothing"
+  },
+  {
+    "message": "New low here on qqq we're at 35% on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "New stop level on qqq is above this flag / 13ema \ud83d\udc4d",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy and qqq for retests to go long",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Being safe here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "These already hit 100%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll be watching for another entry",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Use the 13ema as your stop if it breaks",
+    "label": "do_nothing"
+  },
+  {
+    "message": "They move quick",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Using the 200ema as my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "125% on tsla here \ud83d\udd25",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching tsla 217.5 puts here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is above the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "35% here on tsla raising my stops",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Using the 200ema as my stop level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My stop is .44 on the rest of these tsla cons",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq puts here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching tsla 227.5c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Using the 13ema as my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "What a candle",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 276p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is a 200ema break",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I like these candles",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Raising stop on the rest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Clean move down! Over 70% now on these puts",
+    "label": "do_nothing"
+  },
+  {
+    "message": "these 275p are over 35% I'm raising my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Now just riding the 13ema down on qqq here. Using it as my stop/risk level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 276p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I was a little late",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm using the 48ema as my risk on this one",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice so far, we're at .82 here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 385p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 278p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "These just hit 20% if you were able to get in. Sorry I know that one moved fast. I'm raising my stop now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 389c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Tight stop on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Careful on these, my stop is set below this trend line",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 385p on this pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm taking these 385p here @ .59",
+    "label": "do_nothing"
+  },
+  {
+    "message": "so far so good we're @ .70 here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing it safe",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Letting the rest ride with a break even stop now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 184c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I will use the 48ema as my stop on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Retest is holding so far but we are moving slow here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "What a knife!",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm  180p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 271p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "A little risky here but I'm trying it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Being cautious on this one. Will scale a little early at support",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're at 1.15  now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching this close, above the 13 ema is my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm giving qqq just a little longer to work here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "That support is right there and I expect a test of it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're at that support level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Holding this second half for a big move on the support break if we get it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 378p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Not quite at the 13ema but respecting this zone well",
+    "label": "do_nothing"
+  },
+  {
+    "message": "qqq at 40%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My stop in spy and qqq will be above the 13ema for now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will be watching to see how they react to the 48ema now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching tsla 215p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop above the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Pushing hard into the zone I'm cutting this early if it doesn't wick",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I still like it but keeping the loss small here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll be watching qqq 270p at the 48ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Planning on scaling in on this one if we reach the 48ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "here's the 48 scale. Average is .95 now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I will use a break of the 48 as my stop level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice shove off the 48 ema here. Raising my stop to near break even here at around .90",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I would have liked it to hold the 13ema here. I'm gonna give it one more chance to break it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We are sitting at b/e now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "It's a coin flip at this point",
+    "label": "do_nothing"
+  },
+  {
+    "message": "'m watching Iwm calls here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking to hold this on gap level at 184.65",
+    "label": "do_nothing"
+  },
+  {
+    "message": "my stop on this Iwm play is .68",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 269p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Play small with tight stop at .70",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Keeping it safe here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 377p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching msft 220p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is tight at 1.20 on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing extremely cautious before the fomc meeting",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 171p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm in watching qqq 256p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "200ema play",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop right above it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "working well so far",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're near 20% place stops in the green",
+    "label": "do_nothing"
+  },
+  {
+    "message": " I'm watching qqq 268c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My target is a move up to this 265 level. Stop is below the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "New high of day here, looking good so far",
+    "label": "do_nothing"
+  },
+  {
+    "message": "13ema is giving out here, have to respect my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Spx puts here. The 3665",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing smaller and gonna try to let them work",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We are gonna need a big move for these to pay nicely so play on the smaller side if your taking them",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My stop on this will be above the 48ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Level not holding on qqq",
+    "label": "do_nothing"
+  },
+  {
+    "message": "If we close above I'll stop out",
+    "label": "do_nothing"
+  },
+  {
+    "message": "For now it's still under it though",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Back under the 13ema now, looking good",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Working nicely now,",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We are getting wicky here qqq. Getting ready to sell the rest of these if we don't push down",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I like the top wicks here on both spy and qqq",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 378c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Waiting for the retest of the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is this candle close below the 13ema for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Giving it 1 chance to bounce here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Letting it try to bounce here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My stop will be no less than 1.00",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will keep a stop above the 13/48",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We broke the lower trend line, and the 200ema. That's why I took this",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We are back at 1.20 here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I still have my stop at 1.05",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Finally breaking down a little here. Feel free to scale some in this chop. I'm holding",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still holding most. Waiting for a real move down after all this chop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm holding through this retest here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Holding up well, back at 1.31 here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Another retest here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My stop will now be a lot 1.15",
+    "label": "do_nothing"
+  },
+  {
+    "message": "No point in letting this one go red now. And that should be plenty of room to see if we get some continuation",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 379c here on the pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching nvda calls here also",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq @ the 200ema here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching nvda on a pullback here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're over 20% on this flag break. Looking for some continuation on this one",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We hit 30% on this new high",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching for this high to hold on Iwm",
+    "label": "do_nothing"
+  },
+  {
+    "message": "If we lose this level I will exit",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Using the 48ema as my stop level on nvda",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching apple 136p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My stop is above the 13ema on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Raising stops",
+    "label": "do_nothing"
+  },
+  {
+    "message": "60% here on apple be safe",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Qqq and spy breaking the 200ema as well. We should see some more downside here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "The next break to watch",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice, 70% here on apple now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "were @150% here raising stops",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Running nicely now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "No green candles, we're close to 300% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Next leg down to watch",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice! That break out is well over 300% on these contracts",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching closely here for the 13ema exit",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Incase we bounce off the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still holding here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "48 holding well. We're @ 40% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "120% here watch this zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Scaled some on the bounce. Holding for a new low of day now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "One more level then new low of day coming on qqq",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're @ 130% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Level breaking! We're at 150%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Candle closing under the 13ema , I'm holding",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Level testing again here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Should break this time",
+    "label": "do_nothing"
+  },
+  {
+    "message": "What a candle out of that zone!",
+    "label": "do_nothing"
+  },
+  {
+    "message": "What a stop candle! Here that low of day now. No complaints, holding through would have been risky. Getting volatile here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm on this pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching qqq 262p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for a break here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Up 12% already, will scale some at 20%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I will use the 200ema as my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Using the 13ema as my stop level now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still using the 13 as my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Tapping 80% here. Just riding the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Iwm working great. Watching the 13ema here and will stop out if it breaks above it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "No break yet = let the winners run",
+    "label": "do_nothing"
+  },
+  {
+    "message": "95% here, letting it work",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 178p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "@.45",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop on Iwm is above the 13/48",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Getting some nice follow through here. We're over 30%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing safe, it's still a little choppy out there",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching the retest. I'm expecting some continuation here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I will use the 13 as my stop, if it hits I will look at the 48 to re enter",
+    "label": "do_nothing"
+  },
+  {
+    "message": "35% I'm raising my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just watching the 13ema here for continuation",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're back at our entry here, I'm still in",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will exit on the break of the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm gonna watch the 48 ema on spy and qqq for a re entry spot",
+    "label": "do_nothing"
+  },
+  {
+    "message": "My stop will be the 48ema on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're at .90 here. Stops gonna be at break even for a risk free chance at a nice move into close",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching tsla 175p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Amazon 87p here also",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Tight stop above the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We may push up here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will watch it on a deeper pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "sorry I meant amzn 87p on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Gonna re evaluate",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching apple 135p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just watching",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 182c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm keeping my stop below that 180.57 level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Little break out here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Some nice follow through on this one. At 30% now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just letting it ride the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Flag retest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watch for bottom wicks for continuation",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nhod on Iwm",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 275c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Flag broke. We are over 1.20 already on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just need it to hold",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop will be the 13ema on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Should retest and go imo. Can scale to be safe",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Here's the retest. Keep stops at break even",
+    "label": "do_nothing"
+  },
+  {
+    "message": "May have been a little wary on the flag break but looks like we are going to get a nice move here soon. I'm still watching calls on spy and qqq",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Same spot as before. Stop set below the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for a new high of day here. Possibly after a 13ema retest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Letting this candle close here. The position is only down 5%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 176p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "It's early so maybe a smaller size play",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop above the 13",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 377p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "200 ema play",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stops above it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "20% here on meta",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Risk is that level above",
+    "label": "do_nothing"
+  },
+  {
+    "message": "The levels holding but not as perfect as I wanted",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking choppy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stopped out on the rest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Strong wicks on the trendline",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watch this zone now. We are approaching it with some volume",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Top wicks at the zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looks good",
+    "label": "do_nothing"
+  },
+  {
+    "message": "40% here on iwm. Still looks good imo",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Over 60% now. We are through the zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "More volume coming in below this level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "75% here I'm holding. We are looking weak",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Leaving room for the 13 ema retest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Good r/r for another entry",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Perfect re entry spot",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Over 100% on Iwm",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I filled @ .22",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Another great r/r add there. 30% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will stop out of everything above the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing smaller here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will let it ride a little loose with the stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We might get wicky on the zone break",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Almost 20% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Play it safe on this one",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Letting the rest ride with break even stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice move! Over 30% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "approaching support here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Another 100% play here \ud83d\udd25",
+    "label": "do_nothing"
+  },
+  {
+    "message": "135% setting my stop at 1.60",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is a candle close above it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "20% here on qqq keep it green if you took it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Over 50% on qqq here. Letting it ride",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 394c now that we're breaking this level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "May test 190.69 here. My stop is below it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Working good, at 1.42 here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 395c at the same level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching this Iwm setup for puts",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching apple 143p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing safe near open",
+    "label": "do_nothing"
+  },
+  {
+    "message": "These are at my average here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 189c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop out will be candle close below 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 287c here on the pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "The reason for the scale was the pm high resistance",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Now we hold and see if it breaks",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Above the level now and up nicely!",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will this position as long as we are above the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for this level to hold. If it breaks I will exit",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Holding the rest for this level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching tsla 192.5c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking to enter on this trendline pullback at the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "1.30 on this push up, I'm holding",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Here's the 200 retest, looking for it to hold",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Make or break spot on tsla here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Spy needs to show a little strength here and we're good",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Breaking out now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "tsla is @ 40% Keep it green",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I will be holding some for a test of that 195 level above",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I think we get some momentum here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Spy above the 200ema now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're coiled up here just waiting for the 13ema to catch up",
+    "label": "do_nothing"
+  },
+  {
+    "message": "50% on tsla now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Here the pullback. I'm risking the 13 ema break here for some more continuation",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Spy holding the 200ema as well",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Bullish signs",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy calls here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Only risking this level on spy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will stop out below this level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Holding",
+    "label": "do_nothing"
+  },
+  {
+    "message": "High of day here. Stop at break even now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Another high there, cons @ .60 here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for a nice move here off this",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 184p for a smaller sized play here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Letting Iwm work itself below this level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "@everyonr 40% on Iwm here keep it green",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 284p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is above 285.50 on qqq",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Testing that level now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 288c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 284p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop loss above the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop below the 13",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Selling some on this push up @ .82",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Over 20% here keep it green. Still choppy out there",
+    "label": "do_nothing"
+  },
+  {
+    "message": "New highs here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching qqq calls again here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "The 289c this time",
+    "label": "do_nothing"
+  },
+  {
+    "message": "30% push here lock some more",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop below the 13ema for the rest of these qqq calls",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 400c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Smaller size on these if I play them",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching this pullback for the 400c on spy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Cleared the pdh I'm watching the pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Up 10% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for a nice push up here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Went +15 to -10 here im holding for now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching for the break out here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I will cut these if we don't get it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We're trying",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for a strong break of 400 here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop below the 48ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Quick bounce scalp",
+    "label": "do_nothing"
+  },
+  {
+    "message": "15% here break even stop set!",
+    "label": "do_nothing"
+  },
+  {
+    "message": "200ema target on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Tapping .12 there I'm holding for the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Spy not helping out cause but the emas are holding up",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Bearish ema cross here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "200ema target hitting 35% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "200ema \ud83c\udfaf over 50% now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "If we lose the 200ema the rest of these are gonna pay nice",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Break even stop on the rest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 191c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching this candle on it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will have my stop below the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Held pm high so looking good imo",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will wait out this spy chop now before taking anything else",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 290p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Risking the 48ema here. Stop above it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will exit this play if we break the 48",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 399p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing safe",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Now letting it ride",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Pdh showing resistance",
+    "label": "do_nothing"
+  },
+  {
+    "message": "It's still choppy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Qqq hanging us up here at the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop above the 48ema now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I will stay in as long as we are below the pdh",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Holding under the pdh on the 15",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Another 20% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Make that 30 \ud83d\udd25",
+    "label": "do_nothing"
+  },
+  {
+    "message": "80% here on spy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "almost 200% on spy here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "230%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Risky being so low already",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for a wick here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Got the wick",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Over 20% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Im holding for a nice move down, but feel free to scale",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Down more than I'd like to be on this qqq play but still holding",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Didn't scale at 20% now down 20%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still looking for a move towards 284 here to finish it off",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Over 50% here and not letting it go back red now lol",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Over 50% here and not letting it go back red now lol",
+    "label": "do_nothing"
+  },
+  {
+    "message": "284p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Risking the 13ema break.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 185p when we get a pullback going it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 394p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq puts as well",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop will be candle close over the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "A little support at PDL here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Should move nicely if we clear it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Struggling a little at this level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Bounced off PDL",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Same thing, stop is candle close over the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will re assess",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 284p again here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Here's what I'm seeing",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop loss above that 286 level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Push up to that level here, watching for a wick",
+    "label": "do_nothing"
+  },
+  {
+    "message": "No wick but respecting the level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Need spy to hold this zone here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still at break even here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Up 10% but still in a sketchy area",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 284p on the pullback to the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will play smaller on this one with the ema spacing not being great",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Ugly pullback here. Waiting it out",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 399c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Wicking hard here be careful",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Not holding the 200 ema here I'm cutting here near my average",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching Iwm 184p on this pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Retest holding so far. Up 10%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "No scale yet for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will hold as long as we hold the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still working, approaching that 20% mark here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Here it is, over 20%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Grinding down here slowly",
+    "label": "do_nothing"
+  },
+  {
+    "message": "35% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Gonna ride this down as far as it takes me with the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still riding it. At 40% now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is gonna be that 286 level for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice candle, up 10%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Holding for that follow through here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "No follow through again",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 390p 1dte",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Working so far",
+    "label": "do_nothing"
+  },
+  {
+    "message": "15% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still green here, letting it test the 48ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will stop out over the 48 ema if it breaks on this spy play",
+    "label": "do_nothing"
+  },
+  {
+    "message": "So far it's holding nicely",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching nvda 152.5p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just so I won't stop our red if we revers here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Should see resistance here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will watch for a re entry",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Level was reclaimed",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will use the 13ema as my stop on the rest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching amd  73p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "13ema stop on the rest for me. Stress free here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "60% on amd here if you held through that pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "fresh lows here on amd",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Up to 80% on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 282p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still holding amd as well",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is above this 13ema level on qqq",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will look to re enter",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Same with amd",
+    "label": "do_nothing"
+  },
+  {
+    "message": "watching spy puts here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop on this one is above the 200ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "@ .43 here on spy, play it safe in this area",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 301 puts here as we fall back under the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm using a break over the 13ema as my stop loss here",
+    "label": "do_nothing"
+  },
+  {
+    "message": ".69 here, I want to see a pml test",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still in a little bit of a choppy area will look to scale some out on a drop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Thinking I may have jumped the gun on that one. Spy was not showing enough weakness to let qqq drop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "A break even stop should have been set there for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "spy is sitting right in our first supply zone. I want to see a break up over this zone before going long. Or a break down under this lower trend line before going short.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "spy breaking that trendline here. I'll be watching   392p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Closes below the trend line and 13ema here so I'll use that as my stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Between the emas here so will look to scale out at the 48ema first",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing it safe",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Between the emas can get choppy so just want to keep it green here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "The overall outlook looks bearish",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Rejected supply and broke trend",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice push here, up 25%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "A close below the 48ema would be nice here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Under the 48ema now. Good sign",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Would like to see a 200ema test here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "200ema is at 391.44",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Picture perfect wedge break out of the supply zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Bouncing a little off the new low. Hoping for a flag break here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Emas about to cross up",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Flag breaking here, siting @ 50% now.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Tight stop on the rest incase we bounce here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Wow no bounce. Straight to 180% on the runners \ud83d\udd25",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Now that we are below the 200ema I'll use that as my stop on these runners.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "crazy wick on that candle actually showing it didn't break out of the flag",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Spy rejecting the supply zone again",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for that new of day here. Will stop out below the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Spy at supply zone so I played it small",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Keep that in main",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Mind",
+    "label": "do_nothing"
+  },
+  {
+    "message": "This is on the risky side with spy at supply zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Going long before the supply zone break on spy is a risky trade. I played it small because of this but still not a smart play there",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice flag break on spy. My main watch is below the 200ema here. I would like to catch a move down to the next support zone at 394.40",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll be watching spy 395p",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Seem to be holding under that 200ema here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Wicking hard here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Rest",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 395p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I like the 13 crossing under the 200ema here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Hoping for some momentum to pick up",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Playing safe",
+    "label": "do_nothing"
+  },
+  {
+    "message": "These conditions are not predictable",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I still have my eyes on that 394.40 level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice candle",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Sitting over 20% here should be easy to keep this trade green",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Hoping we smooth out here and ride the 13ema for a bit",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 396p here if we break below the 200ema again",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Broke below the 200ema I'm watching this. It's not an ideal setup so I'll if I enter it will be with a smaller size position",
+    "label": "do_nothing"
+  },
+  {
+    "message": "It's still really choppy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "This isn't really setting up very nicely. I'm gonna look for something with a better r/r",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 309c here if this flag break at the 13ema. Seems to be running a lot smoother now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Exploded out of that flag! Was too slow on my entry. I'll keep watching it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Spy also smoothing out now. I'll be watching both on the pullbacks",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop is below the 13ema for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Taking the chance on some follow through here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just sitting at my average here. Was hoping for a quicker move off the ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching this dip on qqq to the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "It's late so the 0dte are wild",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looking for that 309.39 level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice candle here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Really close here! Up 50% on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We see the 3pm dip get bought up often",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Here's that level! Took more off at 100%",
+    "label": "do_nothing"
+  },
+  {
+    "message": "That's a new high of day here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looks like we are heading for that 310 zone next",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm using that high of day level of 309.39 as my stop here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "150% here on the way to that 310.10 zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "This flag break will send us to 310 imo. Spy not even at the high of day yet",
+    "label": "do_nothing"
+  },
+  {
+    "message": "New high of day on the break , looks good for that move",
+    "label": "do_nothing"
+  },
+  {
+    "message": "There's 310 \ud83c\udfaf over 200% now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We are just ranging between 2 support and resistance zone here on qqq. I'll be waiting for a break of one or the other before looking for an entry. Below 310 I'll look for puts. Above 314 I'll look for calls \ud83d\udc4d",
+    "label": "do_nothing"
+  },
+  {
+    "message": "nice break over 314 on qqq. I'll be watching 316c on the pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Still have to play it safe with powell speaking. The market will react to what he has to say",
+    "label": "do_nothing"
+  },
+  {
+    "message": "They are not liking what he is saying. Gonna have to wait until he is finished to get an entry on anything that's not a compete lotto",
+    "label": "do_nothing"
+  },
+  {
+    "message": "first day in a really long time I didn't get a trade in. A couple decent moves went down last minute there but overall not much as far as A+ r/r setups for me. Looking forward to the end of the week \ud83e\udd19",
+    "label": "do_nothing"
+  },
+  {
+    "message": "we are basing on top of that pre market high nicely. I'll be watching 397c on spy",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I like qqq here above our zone also",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching the 312c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "13ema stop for me here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "A new high of day would be nice here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 312p for a scalp down to the 48ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Rejected that zone well so thinking we at least see a deeper pullback to the 48ema here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I don't like to fight the trend so I'll scale out some here quickly",
+    "label": "do_nothing"
+  },
+  {
+    "message": "If 314 was the top these will be really nice. Needs to stay under the 13ema now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looks like maybe the trend wants to continue",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 400c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Looks like we could see more upside soon",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just have to avoid the chop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "adjusted this channel a little. Looks almost ready for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching those 400c still",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll use the 13ema break as my stop here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "It's a little risky to time but the r/r is there for me",
+    "label": "do_nothing"
+  },
+  {
+    "message": "13ema curling up a little here as well",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Qqq at supply zone making it risky",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Broke the ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm gonna be a little more patient and wait for a clear direction here. We are kind of trapped between resistance and the emas after the big move up.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 394p on this retest of the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Really close to that zone so playing it smaller",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I need to see it hold under this level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm playing it safe near this zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Needs a solid break here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Was really trying to hold that pm level but couldn't do it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Moving quickly here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Think we see that move down to our zone now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We have a little bigger trend line break now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Maybe double bottom here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Really volatile area here on the contracts",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Went 35% back to me entry, I'm holding for that move into the zone here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Now at 40% as we head for that zone tap",
+    "label": "do_nothing"
+  },
+  {
+    "message": "sitting around .70 here. These are fluctuating a lot. Scale and stay safe",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Hoping for one nice push down deep into this zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "If we continue to look weak I'll get back in",
+    "label": "do_nothing"
+  },
+  {
+    "message": "qqq breaking down below our zone here. I'll be watching the pullbacks on it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Same for Iwm, finally breaking that 170",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Watching these pullbacks on spy on qqq here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 390p on this 13ema pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will keep a tight stop over this zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'll stop out of the rest over this zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Needs to hold the 48ema here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "60% here as we break below the 13ema now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Zone held really well! 75% on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Just needs to hold under the 13ema here and we should see a new low of day",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Nice! New lows and 160% now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm out most there as we approach that 390  level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "really choppy conditions so far. Forcing me to wait for a range break here. Taking anything before that is gonna be a lot higher risk",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching spy 388p here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Will keep the 20% stop on these",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Not breaking down here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm warning spy 395c here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "13ema stop loss for me here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Would like to see a move to a new high day",
+    "label": "do_nothing"
+  },
+  {
+    "message": "No follow through",
+    "label": "do_nothing"
+  },
+  {
+    "message": "If we pick back up I'll re enter",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching this flag break to possible bring in some upside momentum on spy. I'll be looking at those same 395c",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Definitely brought the momentum. I'll be watching pullbacks",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Risky pullback",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm gonna try it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Stop under 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "The contracts dropped so much on that pullback I liked the r/r there.",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Finally breaking this zone and wicked the 13ema",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Wow that was a 40% candle there",
+    "label": "do_nothing"
+  },
+  {
+    "message": "3pm always gets volatile",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Spy at the pre market high is holding this back",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Basing well on this zone",
+    "label": "do_nothing"
+  },
+  {
+    "message": "New high of day, we need a breakout here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm gonna watch spy now",
+    "label": "do_nothing"
+  },
+  {
+    "message": "That qqq trade hit 60% so will play it cautious here and not give it right back",
+    "label": "do_nothing"
+  },
+  {
+    "message": "It's gonna get all wicky at 3pm",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I'm watching qqq 310c again here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Risky",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Time of day is not ideal here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I want to see us hold above the 13ema here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We seem to be holding above that major intraday resistance",
+    "label": "do_nothing"
+  },
+  {
+    "message": ".70 here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Can scale to reduce the risk",
+    "label": "do_nothing"
+  },
+  {
+    "message": "qqq holding that zone really well. I'm watching it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Perfect breakout and retest of that intraday resistance zone. I'll be watching pullbacks if we get any",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Late day plays always add risk but I like it",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Perfect bounce here. Over 1.00 now. Should be easy to keep it green and ride it into close",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Slow and steady so far",
+    "label": "do_nothing"
+  },
+  {
+    "message": "just watching this 13ema as my stop level",
+    "label": "do_nothing"
+  },
+  {
+    "message": "We've bounced to 15% a couple times so I took some off to play it safe and not go red on that stop",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I don't r want to bail out right before a possible move up to end the day",
+    "label": "do_nothing"
+  },
+  {
+    "message": "Horrible price action to end the week but we survived lol. Overall a good week and looking forward to Monday already. Have a great weekend everyone! \ud83e\udd19",
+    "label": "do_nothing"
+  },
+  {
+    "message": "New lows! 60% here",
+    "label": "do_nothing"
+  },
+  {
+    "message": "I’m talking qqq 311p",
+    "label": "buy"
+  },
+  {
+    "message": "Test Action",
+    "label": "do_nothing"
+  }
+]

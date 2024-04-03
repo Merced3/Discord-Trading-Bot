@@ -1,0 +1,73 @@
+[
+    {
+        "message": "This candle stopped me out. I’m out now",
+        "action": "sell",
+        "sell_percentage": "100"
+    },
+    {
+        "message": "I’m out here",
+        "action": "sell",
+        "sell_percentage": "100"
+    },
+    {
+        "message": "scaled some",
+        "action": "sell",
+        "sell_percentage": "25"
+    },
+    {
+        "message": "selling the east here at even",
+        "action": "sell",
+        "sell_percentage": "100"
+    },
+    {
+        "message": "scaling some here on this drop",
+        "action": "sell",
+        "sell_percentage": "not_specified"
+    },
+    {
+        "message": "I’m out half here @ 30%",
+        "action": "sell",
+        "sell_percentage": "50"
+    },
+    
+    {
+        "message": "my stop hit there I’m out of Iwm",
+        "action": "sell",
+        "sell_percentage": "100"
+    },
+    {
+        "message": "I trimmed some @ 55%",
+        "action": "sell",
+        "sell_percentage": "10"
+    },
+    {
+        "message": "sold some here @ 25%",
+        "action": "sell",
+        "sell_percentage": "25"
+    },
+    {
+        "message": "I’m out here on qqq, getting late in the day",
+        "action": "sell",
+        "sell_percentage": "100"
+    },
+    {
+        "message": "I’m out half @ 40%",
+        "action": "sell",
+        "sell_percentage": "50"
+    },
+    {
+        "message": "I’m out here",
+        "action": "sell",
+        "sell_percentage": "100"
+    },
+    {
+        "message": "Sold Half",
+        "action": "sell",
+        "sell_percentage": "50"
+    },
+    {
+        "message": "sold 30% of position",
+        "action": "sell",
+        "sell_percentage": "30"
+    }
+]

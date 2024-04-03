@@ -1,0 +1,834 @@
+[
+  {
+    "message": "I'm taking spy 394c @ .66",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these qqq 294c here @ .60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 172p @ .55",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 172p @ .60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 295c @ .71",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 295c @ .60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 177p @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 394p @ .43",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 398p here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 398p @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399p @ .73",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 299p @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 397p @ .33",
+    "label": "buy"
+  },
+  {
+    "message": "taking these @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 1dte 396p @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 398p @ .53",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 398p @ .64",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "QQQ 271c @ 1.00",
+    "label": "buy"
+  },
+  {
+    "message": "QQQ 273c @ .82",
+    "label": "buy"
+  },
+  {
+    "message": "nvda 135c @ .98",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 176c @ 1.20",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 277p @ .74",
+    "label": "buy"
+  },
+  {
+    "message": "nvda 122p @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "amd 64p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 280c @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "tsla 252.5c @ 1.00",
+    "label": "buy"
+  },
+  {
+    "message": "meta 134p @ .95",
+    "label": "buy"
+  },
+  {
+    "message": "meta 145c @ .57",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 172p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "tsla 225p @ .63",
+    "label": "buy"
+  },
+  {
+    "message": "apple 141p @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "spy 364p @ .71",
+    "label": "buy"
+  },
+  {
+    "message": "spy 364p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "took these 269p @ .43 with a -10% stop set",
+    "label": "buy"
+  },
+  {
+    "message": "Stop on qqq is .65 for me here",
+    "label": "buy"
+  },
+  {
+    "message": "amd 54p @ .95",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 264p @ .60",
+    "label": "buy"
+  },
+  {
+    "message": ".73 here on qqq",
+    "label": "buy"
+  },
+  {
+    "message": "spy 359p @ .57",
+    "label": "buy"
+  },
+  {
+    "message": "spy 357p @ .35",
+    "label": "buy"
+  },
+  {
+    "message": "apple 145c @ 1.13",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 165p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 165p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 266c @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "Spy @ .70 on the 356",
+    "label": "buy"
+  },
+  {
+    "message": "Amd 60c @ .62",
+    "label": "buy"
+  },
+  {
+    "message": "apple 144c @ .38",
+    "label": "buy"
+  },
+  {
+    "message": "nvda 121c @ 1.07",
+    "label": "buy"
+  },
+  {
+    "message": "amd 57p @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 263 @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 261p @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "Spy 357p @ .52",
+    "label": "buy"
+  },
+  {
+    "message": "nvda 125c @ 1.02",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 173c @ .59",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 179c @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "amd 57p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "spy 364p @ .89",
+    "label": "buy"
+  },
+  {
+    "message": "apple 140p @ 1.35",
+    "label": "buy"
+  },
+  {
+    "message": "spy 365p @ .47",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 170p @ .36",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 275c @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "I bought more of these at .60 so now I have a .65 average",
+    "label": "buy"
+  },
+  {
+    "message": "spy 366p @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 168p @ .14",
+    "label": "buy"
+  },
+  {
+    "message": "I took some apple 145c @ 1.10 here",
+    "label": "buy"
+  },
+  {
+    "message": "tsla 192.5p @ 1.28",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting back in these tsla 192.5p @ .45 here",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 267p @ 1.12",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 172c @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm entering spy 370c @ .91 here",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 270p @ .47",
+    "label": "buy"
+  },
+  {
+    "message": "I took these qqq 270p @ .25 here",
+    "label": "buy"
+  },
+  {
+    "message": "spy 379c @ .51",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 174c @ .39",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 376p here @ .46. It's a little risky imo",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 172p @ .21",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 278c here @ .63",
+    "label": "buy"
+  },
+  {
+    "message": "I took these qqq 287c @ 1.07",
+    "label": "buy"
+  },
+  {
+    "message": "I took the amd 63c @ .83",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying spy 388c @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "spy 380p @ 1.14",
+    "label": "buy"
+  },
+  {
+    "message": "spy puts at 1.25 here raising my stop to b/e",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying these 180c here at the 200",
+    "label": "buy"
+  },
+  {
+    "message": "I got Iwm 180c here @ .45 on the pm high hold",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting these 385c here @ .95",
+    "label": "buy"
+  },
+  {
+    "message": "spy 387c @ .68",
+    "label": "buy"
+  },
+  {
+    "message": "amd 62c @ 1.05",
+    "label": "buy"
+  },
+  {
+    "message": "I'm gonna try down qqq 284c @ .65 here it's a little risky imo",
+    "label": "buy"
+  },
+  {
+    "message": "I took amd 64c @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I took nvda 140c @ .55",
+    "label": "buy"
+  },
+  {
+    "message": "I took spy 375p @ .92 here",
+    "label": "buy"
+  },
+  {
+    "message": "I got back in spy these puts here @ .70",
+    "label": "buy"
+  },
+  {
+    "message": "apple 140p @ 1.24",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 270p @ 1.18",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 277c @ .85",
+    "label": "buy"
+  },
+  {
+    "message": "I took tsla 215p on that retest. I'll get more on the next",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting the 215p on tsla at .80 here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm scalping these 215p on tsla again at .28",
+    "label": "buy"
+  },
+  {
+    "message": "I took tsla 217.5p @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these 227.5c on tsla @ .47",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking tsla 227.5c @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 276p @ .62",
+    "label": "buy"
+  },
+  {
+    "message": "I got some qqq 275p here @ .45",
+    "label": "buy"
+  },
+  {
+    "message": "I took the 276p @ .72",
+    "label": "buy"
+  },
+  {
+    "message": "I took these @ .93",
+    "label": "buy"
+  },
+  {
+    "message": "I took these 389c @ .52",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these 385p here @ .59",
+    "label": "buy"
+  },
+  {
+    "message": "i took Iwm 184c @ .35",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 271p @ 1.05",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 378p @ 1.18",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying these tsla 215p @ 1.30",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these 279p here @ 1.02",
+    "label": "buy"
+  },
+  {
+    "message": "I got Iwm 188c @ .76",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 269p @ .77",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking msft 220p @ 1.25",
+    "label": "buy"
+  },
+  {
+    "message": "I took spy 363p here @ the 48 ema",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 172p @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "I took these 268c here @ 1.28",
+    "label": "buy"
+  },
+  {
+    "message": "I'm in these @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 257p @ .90",
+    "label": "buy"
+  },
+  {
+    "message": "I took spy 378c @ 1.15",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 368p @ 1.15",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking nvda 142c @ .93",
+    "label": "buy"
+  },
+  {
+    "message": "Iwm 180c @ .60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying nvda 142c here again @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I took these apple 136p @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "qqq 258p @.21",
+    "label": "buy"
+  },
+  {
+    "message": "Im taking qqq 262p @ .59",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 177p here @ .38",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 177p here @ .25",
+    "label": "buy"
+  },
+  {
+    "message": "I took Iwm 178p here",
+    "label": "buy"
+  },
+  {
+    "message": "spy 380c @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I took wed. Iwm 182c @ .80",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking tsla 175p @ 1.60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking amzn 135p here @ 1.03",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting these Iwm 182c @ .94",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 275c @ 1.10",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these qqq 275c again here @ 1.21",
+    "label": "buy"
+  },
+  {
+    "message": "Okay I closed it here for -8",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 176p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "Took the spy 377p @ .49",
+    "label": "buy"
+  },
+  {
+    "message": "I took meta 107c @ 1.00",
+    "label": "buy"
+  },
+  {
+    "message": "I took spy 377p @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm at the 200ema 177p @ .38",
+    "label": "buy"
+  },
+  {
+    "message": "I'm adding Iwm 176p here as well",
+    "label": "buy"
+  },
+  {
+    "message": "Added more here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 377p of the 13ema here @ .76",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 394c @ .93",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these spy 394c here @ 1.24",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking apple 143p @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Apple 144p",
+    "label": "buy"
+  },
+  {
+    "message": "I took Iwm 189c @ .59",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 287c @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 392p here @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "I'm in @ 1.10 here on tsla",
+    "label": "buy"
+  },
+  {
+    "message": "Scaling some here @ 25%",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399c @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 184p @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 284p @ .95",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 284p @ .53",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 288c @ .72",
+    "label": "buy"
+  },
+  {
+    "message": "I took qqq 289c @ .40",
+    "label": "buy"
+  },
+  {
+    "message": "Locked some at .49 here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these Spy 400c @ .75",
+    "label": "buy"
+  },
+  {
+    "message": "I'm trying Iwm 187c here at the 48ema @ .46",
+    "label": "buy"
+  },
+  {
+    "message": "switching short here on Iwm. I got some 186p @ .09",
+    "label": "buy"
+  },
+  {
+    "message": "spy 405c @ .50, Riskier trade here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 191c @ .68",
+    "label": "buy"
+  },
+  {
+    "message": "I'm in @ .66",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399p @ .78",
+    "label": "buy"
+  },
+  {
+    "message": "back in 399p @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting qqq 284p here @ .35",
+    "label": "buy"
+  },
+  {
+    "message": "back in qqq here at  .39 average",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 291c here @ .32, Risky play here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 284p @ .55",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting in Iwm 184p here @ .58",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these qqq 284p again here @ .77",
+    "label": "buy"
+  },
+  {
+    "message": "taking spy 394p @ .65",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 399c @ .33",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking Iwm 184p @ .42",
+    "label": "buy"
+  },
+  {
+    "message": "I'm getting in qqq 285p @ .55 here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these spy 390p @ .48",
+    "label": "buy"
+  },
+  {
+    "message": "taking nvda 152.5p @ .53",
+    "label": "buy"
+  },
+  {
+    "message": "back in nvda 152.5p @ .41",
+    "label": "buy"
+  },
+  {
+    "message": "amd 73p @ .46",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these qqq 282p @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 393p @ .35",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 301p @ . 60",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 392p @ .74",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq .44",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 395p @ .66",
+    "label": "buy"
+  },
+  {
+    "message": "taking these @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these  qqq 309c @ .48",
+    "label": "buy"
+  },
+  {
+    "message": "I took the 309c for a riskier trade here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm took qqq 313c here",
+    "label": "buy"
+  },
+  {
+    "message": "Taking these at .75",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 400c @ .50",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 394p @ .55",
+    "label": "buy"
+  },
+  {
+    "message": "I'm back in these spy 394p @ .54",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 389p 1dte @ .88",
+    "label": "buy"
+  },
+  {
+    "message": "taking spy 388p @ .73",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking spy 395c @ .56",
+    "label": "buy"
+  },
+  {
+    "message": "I got the 395c @ .61",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking qqq 310c here",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking these @ .63",
+    "label": "buy"
+  },
+  {
+    "message": "I'm taking 1dte qqq 313c @ .93",
+    "label": "buy"
+  },
+  {
+    "message": "This candle stopped me out. I'm out now",
+    "label": "sell"
+  }
+]

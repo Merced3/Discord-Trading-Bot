@@ -1,0 +1,335 @@
+[
+  {
+    "message": "im taking 12 tsla 425c 1dte @ .31",
+    "ticker symbol": "tsla",
+    "strike price": "425",
+    "C/P": "call",
+    "bid": ".31",
+    "expiration date": "1dte",
+    "quantiy": "12"
+  },
+  {
+    "message": "I took the 309c for a riskier trade here",
+    "ticker symbol": "not specified",
+    "strike price": "309",
+    "C/P": "call",
+    "bid": "not specified",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I’m taking 1dte qqq 313c @ .93",
+    "ticker symbol": "QQQ",
+    "strike price": "313",
+    "C/P": "call",
+    "bid": ".93",
+    "expiration date": "1dte",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking these  qqq 309c @ .48",
+    "ticker symbol": "QQQ",
+    "strike price": "309",
+    "C/P": "call",
+    "bid": ".48",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "taking these @ .56",
+    "ticker symbol": "not specified",
+    "strike price": "not specified",
+    "C/P": "not specified",
+    "bid": ".56",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 395p @ .66",
+    "ticker symbol": "SPY",
+    "strike price": "395",
+    "C/P": "put",
+    "bid": ".66",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking AMD 96c @ .57",
+    "ticker symbol": "AMD",
+    "strike price": "96",
+    "C/P": "call",
+    "bid": ".57",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking qqq .44",
+    "ticker symbol": "QQQ",
+    "strike price": "not specified",
+    "C/P": "not specified",
+    "bid": ".44",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 392p @ .74",
+    "ticker symbol": "SPY",
+    "strike price": "392",
+    "C/P": "put",
+    "bid": ".74",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking qqq 301p @ . 60",
+    "ticker symbol": "QQQ",
+    "strike price": "301",
+    "C/P": "put",
+    "bid": ".60",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 388p @ .54",
+    "ticker symbol": "SPY",
+    "strike price": "388",
+    "C/P": "put",
+    "bid": ".54",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 387p @ .50",
+    "ticker symbol": "SPY",
+    "strike price": "387",
+    "C/P": "put",
+    "bid": ".50",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking Iwm 171p @ .45",
+    "ticker symbol": "IWM",
+    "strike price": "171",
+    "C/P": "put",
+    "bid": ".45",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm in qqq 306c here @ .44",
+    "ticker symbol": "QQQ",
+    "strike price": "306",
+    "C/P": "call",
+    "bid": ".44",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking qqq 306c here @ .50 again",
+    "ticker symbol": "QQQ",
+    "strike price": "306",
+    "C/P": "call",
+    "bid": ".50",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking qqq 306c @ .46 again",
+    "ticker symbol": "QQQ",
+    "strike price": "306",
+    "C/P": "call",
+    "bid": ".46",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm took these here",
+    "ticker symbol": "not specified",
+    "strike price": "not specified",
+    "C/P": "not specified",
+    "bid": "not specified",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "Fill was .46",
+    "ticker symbol": "not specified",
+    "strike price": "not specified",
+    "C/P": "not specified",
+    "bid": ".46",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking AMD 96c @ .57",
+    "ticker symbol": "AMD",
+    "strike price": "96",
+    "C/P": "call",
+    "bid": ".57",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm back in the 390c",
+    "ticker symbol": "not specified",
+    "strike price": "390",
+    "C/P": "call",
+    "bid": "not specified",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 390c @ .62",
+    "ticker symbol": "SPY",
+    "strike price": "390",
+    "C/P": "call",
+    "bid": ".62",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I’m taking qqq 306p",
+    "ticker symbol": "QQQ",
+    "strike price": "306",
+    "C/P": "put",
+    "bid": "not specified",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking qqq 298c @ .30",
+    "ticker symbol": "QQQ",
+    "strike price": "298",
+    "C/P": "put",
+    "bid": ".30",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking these @ .66",
+    "ticker symbol": "not specified",
+    "strike price": "not specified",
+    "C/P": "not specified",
+    "bid": ".66",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 382p @ .71",
+    "ticker symbol": "SPY",
+    "strike price": "382",
+    "C/P": "put",
+    "bid": ".71",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 383p @ .75",
+    "ticker symbol": "SPY",
+    "strike price": "383",
+    "C/P": "put",
+    "bid": ".75",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 1dte 385p @ 1.00",
+    "ticker symbol": "SPY",
+    "strike price": "385",
+    "C/P": "put",
+    "bid": "1.00",
+    "expiration date": "1dte",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking these at .54",
+    "ticker symbol": "not specified",
+    "strike price": "not specified",
+    "C/P": "not specified",
+    "bid": ".54",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 390p @ .40",
+    "ticker symbol": "SPY",
+    "strike price": "390",
+    "C/P": "put",
+    "bid": ".40",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking qqq 298c @ .81",
+    "ticker symbol": "QQQ",
+    "strike price": "298",
+    "C/P": "call",
+    "bid": ".81",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking qqq 298c @ .65",
+    "ticker symbol": "QQQ",
+    "strike price": "298",
+    "C/P": "call",
+    "bid": ".65",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking spy 394c @ .62",
+    "ticker symbol": "SPY",
+    "strike price": "394",
+    "C/P": "call",
+    "bid": ".62",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking iwm 174p",
+    "ticker symbol": "IWM",
+    "strike price": "174",
+    "C/P": "put",
+    "bid": "not specified",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I'm taking Iwm 174p @ .50",
+    "ticker symbol": "IWM",
+    "strike price": "174",
+    "C/P": "put",
+    "bid": ".50",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "@everyone I’m taking spy 406p @ .58",
+    "ticker symbol": "SPY",
+    "strike price": "406",
+    "C/P": "put",
+    "bid": ".58",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "I’m taking amd 91p",
+    "ticker symbol": "AMD",
+    "strike price": "91",
+    "C/P": "put",
+    "bid": "not specified",
+    "expiration date": "not specified",
+    "quantiy": "not specified"
+  },
+  {
+    "message": "@everyone I’m taking aapl 175p 2dte here",
+    "ticker symbol": "AAPL",
+    "strike price": "175",
+    "C/P": "put",
+    "bid": "not specified",
+    "expiration date": "2dte",
+    "quantiy": "not specified"
+  }
+]

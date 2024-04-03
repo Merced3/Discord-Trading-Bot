@@ -1,0 +1,27 @@
+what if the messages were interactable?
+
+A message like this comes out, as per ussual:
+
+AMD Buy Order Pending
+Buy: Order fulfilled: 0.56 Bought 2 AMD put contracts. Total investment: $112.00
+[ Sell All ] [ Sell 50% ]
+
+but then bottons show up under the message (button = [btn_text]), but what if also if the order had more than 2 contracts it would do the math differently?
+
+what if the buttons could be adaptive? 4 examples:
+
+ex1) #each contract gets a percentage sell button
+Buy: Order fulfilled: 0.56 Bought 3 AMD put contracts. Total investment: $392.00 
+[ Sell All ] [ Sell 66% ] [ Sell 33% ]
+
+ex2) 
+Buy: Order fulfilled: 0.56 Bought 10 AMD put contracts. Total investment: $560.00 
+[ Sell All ] [ Sell 90% ] [ Sell 80% ] [ Sell 70% ] [ Sell 60% ] [ Sell 50% ] [ Sell 40% ][ Sell 30% ] [ Sell 20% ] [ Sell 10% ]
+
+ex3) #anything 10 contracts and above stay to a max of 10 buttons
+Buy: Order fulfilled: 0.56 Bought 30 AMD put contracts. Total investment: $1,680.00 
+[ Sell All ] [ Sell 90% ] [ Sell 80% ] [ Sell 70% ] [ Sell 60% ] [ Sell 50% ] [ Sell 40% ][ Sell 30% ] [ Sell 20% ] [ Sell 10% ]
+
+ex4) #each contract gets a percentage sell button, again
+Buy: Order fulfilled: 0.56 Bought 6 AMD put contracts. Total investment: $280.00 
+[ Sell All ] [ Sell 80% ] [ Sell 60% ] [ Sell 40% ] [ Sell 20% ]

@@ -1,0 +1,44 @@
+To rigorously test this script, you would want to test 
+each function individually and then test the integration 
+of these functions. Here's a plan for testing:
+
+1) Unit tests: Test individual functions with various 
+input scenarios and edge cases. Some examples include:
+
+    - check_stop_message(): Test cases where a stop 
+    message is received and not received.
+    - send_sms(): Test sending SMS messages with 
+    different content.
+    - submit_option_order(): Test various combinations 
+    of inputs for submitting an order. Test cases 
+    should include:
+        - Different values of symbol, strike, 
+        option_type, bid, expiration_date, quantity, 
+        side, and order_type.
+        - Invalid input scenarios, such as invalid 
+        symbols or incorrect expiration dates.
+    - get_order_status(): Test cases with different order 
+    statuses, such as "filled", "canceled", and "pending".
+2) Integration tests: After ensuring each function works 
+correctly, test the integration of these functions to 
+simulate the script's behavior during real execution. 
+Some examples include:
+
+    - Simulate receiving messages from the Discord channel 
+    with various content:
+    - Valid buy and sell messages with different 
+    combinations of information.
+    - Invalid messages, such as messages with missing 
+    information or incorrect formats.
+    - Simulate receiving a stop message while the script 
+    is running.
+    - Simulate market hours check behavior by adjusting 
+    the time in the script.
+
+3) End-to-end tests: Test the entire script by running it and sending messages through the actual Discord channel. Monitor the script's behavior and check for any unexpected results or issues.
+
+4) Error handling and edge cases: Ensure that the script handles errors gracefully and logs relevant information. Test edge cases and unexpected scenarios to verify the script's stability.
+
+5) Performance and stress tests: Test the script's performance under various loads, such as a high frequency of incoming messages, to ensure it can handle real-world usage.
+
+For a more automated testing approach, consider using Python testing frameworks such as unittest, pytest, or nose to write test cases for each function. These frameworks allow you to create test suites that can be run automatically, ensuring the stability of your code as you make changes.
