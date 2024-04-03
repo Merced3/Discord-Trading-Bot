@@ -1,0 +1,7 @@
+discord.py
+numpy
+scikit-learn
+requests
+pytz
+aiohttp
+twilio
