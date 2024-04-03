@@ -4,5 +4,6 @@
         6000.0,
         0
     ],
+    "ORDER_PERCENTAGE": 0.1,
     "OPTION_EXPIRATION_DTE": "not specified"
 }

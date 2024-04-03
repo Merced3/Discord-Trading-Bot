@@ -1,3 +1,6 @@
+#this file is currently not being used, might use it latter... who knows.
+
+
 import cred
 from twilio.rest import Client
 import asyncio

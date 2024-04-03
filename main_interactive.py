@@ -15,6 +15,7 @@ from datetime import datetime, timedelta
 import text_classification
 from buy_classification import extract_info_from_message
 from sell_classification import classify_sell_message
+from quantity_handler import calculate_quantity
 import inspect
 import re
 
@@ -599,10 +600,8 @@ async def on_message(message):
                         return
 
                     if quantity == "not specified":  # default amount of contracts
-                        if not real_money_activated:
-                            quantity = paper_trading_contract_quantity
-                        elif real_money_activated:
-                            quantity = real_money_contract_quantity
+                        #TODO: MATH of quantity
+                        quantity = calculate_quantity(),,,
 
                     last_trade_info['ticker_symbol'] = ticker_symbol
                     last_trade_info['strike'] = strike
